@@ -81,7 +81,7 @@ a:hover {
 }
 .main .separator {
   border-top: 0.5rem solid #1a5276;
-  margin-top: 3rem;
+  margin: 3rem 0 1rem;
 }
 .main .function {
   margin: 1rem 0 0;
