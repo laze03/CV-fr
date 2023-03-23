@@ -13,12 +13,14 @@ html {
 
 body {
   box-sizing: border-box;
-  min-height: 100vh;
+  height: 100vw;
+  width: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 1.6rem;
   font-family: "Lato";
+  transform: rotateZ(90deg);
 }
 
 a,
